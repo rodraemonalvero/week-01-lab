@@ -1,0 +1,1 @@
+Hello, my name is Rod Raemon Alvero. I am a Computer Science student interested in software development, cybersecurity, and using AI tools to build better applications. I am taking this course to improve my full stack development skills and learn how AI can support modern web development.
